@@ -7,4 +7,6 @@ You need to run 4 services on the Ambari page before running Hadoop.
 3. MapReduce
 4. YARN
 
+MapReduceInput folder: contains some example inputs for runing "WordCount.java"
+
 -- Chau Ngoc Phuong --
